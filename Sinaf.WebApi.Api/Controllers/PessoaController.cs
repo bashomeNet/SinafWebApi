@@ -20,7 +20,7 @@ namespace Sinaf.WebApi.Api.Controllers
 
         PessoaRepositorio _repositorioPessoa = new PessoaRepositorio(connectionString);
         
-
+        [Authorize]
         public IHttpActionResult Get()
         {
             if (_repositorioPessoa.Selecionar() != 0)
