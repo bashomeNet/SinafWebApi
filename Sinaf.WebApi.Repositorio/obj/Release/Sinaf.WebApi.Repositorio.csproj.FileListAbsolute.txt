@@ -1,0 +1,8 @@
+C:\SINISTRO.WEB\SinafWebApi\Sinaf.WebApi\Sinaf.WebApi.Repositorio\bin\Release\Sinaf.WebApi.Repositorio.dll
+C:\SINISTRO.WEB\SinafWebApi\Sinaf.WebApi\Sinaf.WebApi.Repositorio\bin\Release\Sinaf.WebApi.Repositorio.pdb
+C:\SINISTRO.WEB\SinafWebApi\Sinaf.WebApi\Sinaf.WebApi.Repositorio\bin\Release\Sinaf.WebApi.Dominio.dll
+C:\SINISTRO.WEB\SinafWebApi\Sinaf.WebApi\Sinaf.WebApi.Repositorio\bin\Release\Sinaf.WebApi.Dominio.pdb
+C:\SINISTRO.WEB\SinafWebApi\Sinaf.WebApi\Sinaf.WebApi.Repositorio\obj\Release\Sinaf.WebApi.Repositorio.csprojResolveAssemblyReference.cache
+C:\SINISTRO.WEB\SinafWebApi\Sinaf.WebApi\Sinaf.WebApi.Repositorio\obj\Release\Sinaf.WebApi.Repositorio.csproj.CoreCompileInputs.cache
+C:\SINISTRO.WEB\SinafWebApi\Sinaf.WebApi\Sinaf.WebApi.Repositorio\obj\Release\Sinaf.WebApi.Repositorio.dll
+C:\SINISTRO.WEB\SinafWebApi\Sinaf.WebApi\Sinaf.WebApi.Repositorio\obj\Release\Sinaf.WebApi.Repositorio.pdb
